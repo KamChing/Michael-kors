@@ -1,0 +1,11 @@
+.discountoff {
+	background: black;
+	color: white;
+	text-align: center;
+}
+h1.logo a {
+	width: 260px;
+	height: 26;
+	display: block;
+	background: black;
+}
